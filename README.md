@@ -6,6 +6,11 @@ Este repositório tem o objetivo de apresentar de forma simples as minhas habili
 
 ```markdown
 # Habilidades Técnicas
+- TypeScript
+- Lógica de Programação: Linguagem C
+- UI/UX / Figma
+- Gestão de Projetos / Trello
+- React Native / Expo Router
 - Ferramentas no-code/low-code: experiência com Lovable, Base44, Power Apps
 - Automação de processos: otimização com Microsoft Power Automate
 - Inteligência Artificial aplicada: uso de ferramentas de IA e engenharia de prompts (aprendizado na DIO)
